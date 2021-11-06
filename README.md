@@ -1,1 +1,3 @@
+![Twitch Status](https://img.shields.io/twitch/status/grogyas?color=e31448&logo=twitch&logoColor=%23e31448&style=for-the-badge) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCwHbX6_frkjZnhmIHcxmMrQ?color=e31448&label=YOUTUBE&logo=youtube&logoColor=e31448&style=for-the-badge) ![Twitter Follow](https://img.shields.io/twitter/follow/grogyas?color=e31448&label=TWITTER&logo=twitter&logoColor=e31448&style=for-the-badge)
+
 <img align="left" alt="Grogyas's GitHub Stats" src="https://grogystats.vercel.app/api?username=Grogyas&show_icons=true&hide_border=true&theme=radical" />
