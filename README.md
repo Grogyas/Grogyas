@@ -24,10 +24,6 @@
   <img alt="Grogyas's GitHub Stats" src="https://grogystats.vercel.app/api?username=Grogyas&show_icons=true&hide_border=true&theme=radical&title_color=e31448&border_color=e31448&icon_color=e31448" />
 </p>
 
+<p align="center">
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#372](https://github.com/th-ch/youtube-music/issues/372) in [th-ch/youtube-music](https://github.com/th-ch/youtube-music)
-2. 🗣 Commented on [#343](https://github.com/th-ch/youtube-music/issues/343) in [th-ch/youtube-music](https://github.com/th-ch/youtube-music)
-3. 🗣 Commented on [#343](https://github.com/th-ch/youtube-music/issues/343) in [th-ch/youtube-music](https://github.com/th-ch/youtube-music)
-4. ❗️ Closed issue [#7](https://github.com/MOXHAFOREVA/mx-multicharacter/issues/7) in [MOXHAFOREVA/mx-multicharacter](https://github.com/MOXHAFOREVA/mx-multicharacter)
-5. 🗣 Commented on [#7](https://github.com/MOXHAFOREVA/mx-multicharacter/issues/7) in [MOXHAFOREVA/mx-multicharacter](https://github.com/MOXHAFOREVA/mx-multicharacter)
-<!--END_SECTION:activity-->
+</p>
