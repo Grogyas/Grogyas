@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img alt="Grogyas's GitHub Stats" src="https://grogystats.vercel.app/api?username=Grogyas&show_icons=true&hide_border=true&theme=radical&title_color=e31448&border_color=e31448&icon_color=e31448" />
+  <img alt="Grogyas's GitHub Stats" src="https://grogystats.vercel.app/api?username=Grogyas&show_icons=true&hide_border=true&theme=radical&title_color=e31448&border_color=e31448&icon_color=e31448&bg_color=0D1117" />
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
