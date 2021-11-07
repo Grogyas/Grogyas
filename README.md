@@ -15,7 +15,7 @@
   <a href="https://osu.ppy.sh/users/15749148">
     <img src="https://img.shields.io/badge/osu-%23e31448.svg?&style=for-the-badge&logo=osu&logoColor=white" />
   </a>
-  <a href="https://instagram.com/alexandresanlim">
+  <a href="https://steamcommunity.com/id/grogyas/">
     <img src="https://img.shields.io/badge/steam-%23e31448.svg?&style=for-the-badge&logo=steam&logoColor=white" />
   </a>
 </p>
