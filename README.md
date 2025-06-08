@@ -30,8 +30,8 @@
 <h3 align="center">Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/Frostcloud-Development/rpf2fivem-repository/issues/43#issuecomment-2950749816) in [Frostcloud-Development/rpf2fivem-repository](https://github.com/Frostcloud-Development/rpf2fivem-repository)
-2. 💪 Opened PR [#2](https://github.com/Grogyas/SecondLifeCord/pull/2) in [Grogyas/SecondLifeCord](https://github.com/Grogyas/SecondLifeCord)
+1. 🗣 Commented on [#43](https://github.com/Frostcloud-Development/rpf2fivem-repository/issues/43#issuecomment-2953616438) in [Frostcloud-Development/rpf2fivem-repository](https://github.com/Frostcloud-Development/rpf2fivem-repository)
+2. 🗣 Commented on [#43](https://github.com/Frostcloud-Development/rpf2fivem-repository/issues/43#issuecomment-2950749816) in [Frostcloud-Development/rpf2fivem-repository](https://github.com/Frostcloud-Development/rpf2fivem-repository)
 3. 🎉 Merged PR [#1](https://github.com/Grogyas/SecondLifeCord/pull/1) in [Grogyas/SecondLifeCord](https://github.com/Grogyas/SecondLifeCord)
 4. 💪 Opened PR [#1](https://github.com/Grogyas/SecondLifeCord/pull/1) in [Grogyas/SecondLifeCord](https://github.com/Grogyas/SecondLifeCord)
 5. 🗣 Commented on [#372](https://github.com/th-ch/youtube-music/issues/372) in [th-ch/youtube-music](https://github.com/th-ch/youtube-music)
